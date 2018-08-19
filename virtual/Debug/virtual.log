@@ -1,0 +1,23 @@
+﻿  KernelProcess.cpp
+  KernelSystem.cpp
+c:\users\ivana\desktop\fajlovi\kernelsystem.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\ivana\desktop\fajlovi\kernelsystem.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\ivana\desktop\fajlovi\kernelsystem.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\ivana\desktop\fajlovi\kernelsystem.cpp(61): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+c:\users\ivana\desktop\fajlovi\main.cpp(30): warning C4244: 'initializing': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\ivana\desktop\fajlovi\main.cpp(34): warning C4244: 'initializing': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+  Process.cpp
+  ProcessTest.cpp
+c:\users\ivana\desktop\fajlovi\processtest.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\ivana\desktop\fajlovi\processtest.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\ivana\desktop\fajlovi\processtest.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\ivana\desktop\fajlovi\processtest.cpp(139): warning C4018: '<': signed/unsigned mismatch
+c:\users\ivana\desktop\fajlovi\processtest.cpp(143): warning C4244: '=': conversion from 'VirtualAddress' to 'char', possible loss of data
+  RandomNumberGenerator.cpp
+  System.cpp
+  SystemTest.cpp
+  Generating Code...
+part.lib(part.obj) : warning LNK4099: PDB 'part.pdb' was not found with 'part.lib(part.obj)' or at 'C:\Users\ivana\source\repos\virtual\virtual\Debug\part.pdb'; linking object as if no debug info
+part.lib(PartitionImpl.obj) : warning LNK4099: PDB 'part.pdb' was not found with 'part.lib(PartitionImpl.obj)' or at 'C:\Users\ivana\source\repos\virtual\virtual\Debug\part.pdb'; linking object as if no debug info
+  virtual.vcxproj -> C:\Users\ivana\source\repos\virtual\virtual\Debug\virtual.exe
